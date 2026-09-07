@@ -4,7 +4,7 @@
 
 **Security Alert:** A notification generated when a security system detects activity matching a rule, threshold, or suspicious behaviour pattern.
 
-**Alert Triage:** Reviewing, prioritising, and investigating alerts to determine whether they represent a genuine security threat.
+**Alert Triage:** Reviewing, prioritizing, and investigating alerts to determine whether they represent a genuine security threat.
 
 > **Alert ≠ Attack.** An alert is a signal that requires investigation.
 
